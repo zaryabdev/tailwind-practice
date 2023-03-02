@@ -14,6 +14,7 @@ module.exports = {
         sans: ["Raleway", "Open Sans", ...defaultTheme.fontFamily.sans],
         title: ["Golos Text", "Open Sans", ...defaultTheme.fontFamily.sans]
       },
+      mode: "jit",
       colors: {
         brand: "#5865F2",
         gray: {

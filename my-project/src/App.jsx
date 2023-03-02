@@ -9,7 +9,7 @@ function App() {
         >
             <div className="flex text-gray-100 h-screen">
                 <div className="bg-gray-900 p-3 space-y-2 overflow-y-scroll">
-                    <div className="bg-gray-300 text-gray-100  w-12 h-12 rounded-full flex items-center justify-center hover:bg-brand hover:text-white transition duraion-200">
+                    <div className="bg-gray-300 text-gray-100  w-12 h-12  flex items-center justify-center hover:bg-brand hover:text-white rounded-3xl  hover:rounded-2xl transition-all duration-200">
                         <DiscordIcon className="w-7 h-5" />
                     </div>
                     {/* {[...Array(40)].map((_, i) => (
