@@ -12,6 +12,9 @@ function App() {
                     <div className="bg-gray-300 text-gray-100  w-12 h-12  flex items-center justify-center hover:bg-brand hover:text-white rounded-3xl  hover:rounded-2xl transition-all duration-200">
                         <DiscordIcon className="w-7 h-5" />
                     </div>
+                    <div className="bg-gray-300 text-gray-100  w-12 h-12  flex items-center justify-center hover:bg-brand hover:text-white rounded-3xl  hover:rounded-2xl transition-all duration-200">
+                        S1
+                    </div>
                     {/* {[...Array(40)].map((_, i) => (
                         <div className="bg-white text-gray-800  w-12 h-12 rounded-full flex items-center justify-center">
                             {i}
