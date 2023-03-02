@@ -1,0 +1,40 @@
+/*
+     font-family: 'Open Sans',Raleway, 'Golos Text', sans-serif;
+ */
+
+@font-face {
+    font-family: "Raleway";
+    src: local("Raleway"),
+        url(./fonts/raleway/Raleway-Light.ttf) format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Raleway";
+    src: local("Raleway"),
+        url(./fonts/raleway/Raleway-Regular.ttf) format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Raleway";
+    src: local("Raleway"),
+        url(./fonts/raleway/Raleway-Medium.ttf) format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Raleway";
+    src: local("Raleway"),
+        url(./fonts/raleway/Raleway-SemiBold.ttf) format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Golos Text";
+    src: local("Golos Text"),
+        url(./fonts/Golos-Text/GolosText-SemiBold.ttf) format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}
